@@ -1,6 +1,8 @@
 package com.avillegas.dispatcher;
 
-
+/*
+ * Object to encapsulate data about the call eg. Client, Subject, etc. In this example it only conatins an id
+ */
 public class Call {
 
 
